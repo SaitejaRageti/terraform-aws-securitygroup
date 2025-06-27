@@ -7,8 +7,7 @@ variable "environment" {
 }
 
 variable "sg_name" {
-    type = string
-    default = {}
+    type = string 
 }
 
 variable "sg_tags" {
