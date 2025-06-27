@@ -17,3 +17,7 @@ variable "sg_tags" {
 variable "sg_description" {
   type = string
 }
+
+variable "vpc_id" {
+  type = string
+}
