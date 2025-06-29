@@ -6,7 +6,7 @@ variable "environment" {
     type = string
 }
 
-variable "frontend_sg_name" {
+variable "sg_name" {
     type = string 
 }
 
